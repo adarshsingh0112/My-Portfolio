@@ -2,22 +2,21 @@ Portfolio Website
 
 This is my personal portfolio website built to showcase my skills, projects, and learning journey as a web developer.
 The website is fully responsive and works smoothly across desktop, tablet, and mobile devices.
-🌐 Live Demo
-🔗 Live Website:
-https://adarshsingh0112.github.io/My-Portfolio/⁠�
+
 
 📌 Features
 
-👨‍💻 About Me section
-🛠️ Skills / Tech stack showcase
-📂 Projects section with links
-📱 Fully responsive design
-🎨 Modern UI with custom CSS effects
-📬 Contact section for easy communication
+👨‍💻 About Me section.
+🛠️ Skills / Tech stack showcase.
+📂 Projects section with links.
+📱 Fully responsive design.
+🎨 Modern UI with custom CSS effects.
+📬 Contact section for easy communication.
+
 🛠️ Built With
-HTML5
-CSS3
-GitHub Pages (for deployment)
+HTML5.
+CSS3.
+GitHub Pages (for deployment).
 
 📂 Project Structure
 My-Portfolio
