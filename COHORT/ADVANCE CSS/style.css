@@ -1,0 +1,78 @@
+/* ADVANCE CSS */
+
+
+/* hover focus active after before */
+button:hover{
+    color:red;
+}
+
+input:focus{
+    color:red;
+}
+
+li::before{
+    content:"";
+}
+
+li::after{
+    content:"";
+}
+
+a:active{
+    color:green;
+}
+
+
+/* LEARNING CSS TRANSITIONS */
+button{
+    color:red;
+    transition:all linear .3s;   
+    /* linear ka mtlb same speed mai transition aur ease in ka mtlb slowly stRT
+    EASE OUT KA MTLB JLDI SHURU LATE KHTM*/
+    /* cubic bezier speed select krata h */
+}
+
+button:hover{
+    color:green;
+}
+
+/* TRANSFORM */
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color:blue; */
+    /* transform:translate(100px,100px) --100 point x mai aur 100 y mai shift  */
+    /* transform: rotate(10deg); ----rotate krta hai center  se  */
+    /* transform:scale(2); -- element bda krna */
+    /* transform: skew(10deg,20deg); --- use krke dekho kaam ptA LG JYEGA 
+    
+}*/
+
+/* 3D TRANSFROMATION  */
+body{
+    perspective: 700px; 
+    /* ---- depth effect create krta h */
+}
+
+
+box{
+    width: 200px;
+    height: 200px;
+    /* transform: translate3d(10px,20px,-300px);  --- aage ya piche krta h  */
+    animation: chacha 2s cubic-bezier() 1s both;
+}
+
+/* ANIMATIONS */
+@keyframes chacha{
+    0%{
+        background-color: red;
+    }
+    50%{
+        background-color: green;
+    }
+}
+
+
+
+
+
