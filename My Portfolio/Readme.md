@@ -7,6 +7,7 @@ The website is fully responsive and works smoothly across desktop, tablet, and m
 https://adarshsingh0112.github.io/My-Portfolio/⁠�
 
 📌 Features
+
 👨‍💻 About Me section
 🛠️ Skills / Tech stack showcase
 📂 Projects section with links
