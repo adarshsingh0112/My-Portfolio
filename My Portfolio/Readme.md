@@ -7,18 +7,28 @@ The website is fully responsive and works smoothly across desktop, tablet, and m
 📌 Features
 
 👨‍💻 About Me section.
+
 🛠️ Skills / Tech stack showcase.
+
 📂 Projects section with links.
+
 📱 Fully responsive design.
+
 🎨 Modern UI with custom CSS effects.
+
 📬 Contact section for easy communication.
 
+
 🛠️ Built With
+
 HTML5.
+
 CSS3.
+
 GitHub Pages (for deployment).
 
 📂 Project Structure
+
 My-Portfolio
 │
 ├── assets
